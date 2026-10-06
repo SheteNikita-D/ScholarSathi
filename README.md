@@ -22,7 +22,7 @@ General-purpose AI models may not reliably know:
 * Official regional documents
 
 ScholarSaathi solves this by creating a focused knowledge base from **verified scholarship PDFs** and retrieving the relevant information before generating an answer.
-
+# Solution - Actual App Preview : https://scholarsaathi-verified-scholarship-ai-assistant.ai.studio/
 ---
 
 # 2. What ScholarSaathi Does
